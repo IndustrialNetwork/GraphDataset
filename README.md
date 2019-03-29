@@ -1,5 +1,5 @@
 # Data
-This folder includes 14 csv files, the first:
+This folder includes 14 csv files:
 
 1-	location.csv
 This file includes the location of 100 water tanks. The headers in this file are x and y, where (x,y) in row i represents the location of tank i.
