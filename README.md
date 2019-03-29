@@ -13,3 +13,7 @@ These files represent tanks time series measurements. The first column in the fi
   2)	Tanki Refill is a binary variable. Tanki Refill=1 when tank i is in the refill mode and Tanki Refill=0 otherwise.
   3)	Tanki Leak is a binary variable. Tanki Leak=1 when tank i is leaking, and Tanki Leak=0 when there is no leak in the tank. 
 Therefore, the total number of variables in these files is 301. 
+
+Please cite the follwoing paper when using the dataset.  
+Hamed Khorasgani, Arman Hasanzade, Ahmed Farahat, and Chetan Gupta. "Fault Detection and Isolation in Industrial Networks
+using Graph Convolutional Neural Networks." IEEE PHM 2019.
